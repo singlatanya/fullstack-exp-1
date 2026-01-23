@@ -93,3 +93,16 @@ Modern
 
 Footer: A dark footer with copyright text.
 
+
+CASE STUDY
+<img width="1881" height="895" alt="image" src="https://github.com/user-attachments/assets/b2163a5b-d346-4e01-8382-ef644bd02629" />
+
+<img width="1212" height="703" alt="image" src="https://github.com/user-attachments/assets/7736ab61-4c45-45cf-b986-cb004cb4ab32" />
+<img width="1146" height="660" alt="image" src="https://github.com/user-attachments/assets/e38a8925-cc31-41b2-af18-741d640a69d6" />
+
+
+<img width="1210" height="709" alt="image" src="https://github.com/user-attachments/assets/ab6a5cdf-b925-4d70-9681-0804c330bbde" />
+
+<img width="607" height="473" alt="image" src="https://github.com/user-attachments/assets/25ae06ee-e215-41ab-aba8-5e074d66ee43" />
+
+<img width="1739" height="560" alt="image" src="https://github.com/user-attachments/assets/10f6e54f-84ca-4ad0-8728-f43c2790b29e" />
